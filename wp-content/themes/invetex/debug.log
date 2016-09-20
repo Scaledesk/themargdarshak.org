@@ -1,0 +1,43 @@
+08.09.2016 07:03:49 Dispatch action: import_tpl
+08.09.2016 07:03:49 Import Templates Options. Attempt 1.
+08.09.2016 07:03:49 AJAX handler finished - send results to client: {"action":"import_tpl","error":"","result":100}
+08.09.2016 07:03:52 Dispatch action: import_widgets
+08.09.2016 07:03:52 Import Widgets. Attempt 1.
+08.09.2016 07:03:52 AJAX handler finished - send results to client: {"action":"import_widgets","error":"","result":100}
+08.09.2016 07:03:55 Dispatch action: import_essgrids
+08.09.2016 07:03:55 Import Essential Grid &quot;&quot;. Attempt 1.
+08.09.2016 07:03:57 Essential Grid import complete
+08.09.2016 07:03:57 AJAX handler finished - send results to client: {"action":"import_essgrids","error":"","result":"100"}
+08.09.2016 07:04:04 Dispatch action: import_revslider
+08.09.2016 07:04:04 Import Revolution sliders
+08.09.2016 07:04:04 Process slider &quot;home-1.zip&quot;. Attempt 1.
+08.09.2016 07:04:21 Slider &quot;home-1.zip&quot; imported
+08.09.2016 07:04:21 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","result":33}
+08.09.2016 07:04:27 Dispatch action: import_revslider
+08.09.2016 07:04:27 Import Revolution sliders
+08.09.2016 07:04:27 Skip previously loaded file: home-1.zip
+08.09.2016 07:04:27 Process slider &quot;home-2.zip&quot;. Attempt 1.
+08.09.2016 07:04:47 Slider &quot;home-2.zip&quot; imported
+08.09.2016 07:04:47 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","result":67}
+08.09.2016 07:04:51 Dispatch action: import_revslider
+08.09.2016 07:04:51 Import Revolution sliders
+08.09.2016 07:04:51 Skip previously loaded file: home-1.zip
+08.09.2016 07:04:51 Skip previously loaded file: home-2.zip
+08.09.2016 07:04:51 Process slider &quot;home-3.zip&quot;. Attempt 1.
+08.09.2016 07:05:02 Slider &quot;home-3.zip&quot; imported
+08.09.2016 07:05:02 AJAX handler finished - send results to client: {"action":"import_revslider","error":"","result":100}
+08.09.2016 07:05:05 Dispatch action: import_woocommerce
+08.09.2016 07:05:05 Import dump of "WooCommerce meta". Attempt 1.
+08.09.2016 07:05:06 Process table "woocommerce_attribute_taxomonies"
+08.09.2016 07:05:06 Imported 100%. Elapsed time 1 sec. of 108 sec.
+08.09.2016 07:05:06 Process table "woocommerce_downloadable_product_permissions"
+08.09.2016 07:05:06 Imported 100%. Elapsed time 1 sec. of 108 sec.
+08.09.2016 07:05:06 Process table "woocommerce_order_itemmeta"
+08.09.2016 07:05:06 Imported 100%. Elapsed time 1 sec. of 108 sec.
+08.09.2016 07:05:06 Process table "woocommerce_order_items"
+08.09.2016 07:05:06 Imported 100%. Elapsed time 1 sec. of 108 sec.
+08.09.2016 07:05:06 Process table "woocommerce_termmeta"
+08.09.2016 07:05:06 Imported 100%. Elapsed time 1 sec. of 108 sec.
+08.09.2016 07:05:06 AJAX handler finished - send results to client: {"action":"import_woocommerce","error":"","result":100}
+08.09.2016 07:05:10 Dispatch action: import_end
+08.09.2016 07:05:10 AJAX handler finished - send results to client: {"action":"import_end","error":"","result":"100"}

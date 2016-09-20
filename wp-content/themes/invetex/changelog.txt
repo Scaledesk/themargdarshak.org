@@ -1,0 +1,10 @@
+Version 1.2
+	* Color schemes and fonts load for correct adding, deleting and changing of  scheme order is fixed;
+    * WP Playlist's initialization if fixed
+
+Version 1.1
+	* Page preloader fixed (safari)
+	* Header's display on mobile phone is fixed.
+
+Version 1.0
+	Release (Version 3.7.5)
