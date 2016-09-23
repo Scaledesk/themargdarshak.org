@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FormForAll 1.1\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: FormForAll\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: fr_FR\n"
+
+# Settings
+msgid "FormForAll configuration"
+msgstr "Configuration de FormForAll"
+
+msgid "Parameters"
+msgstr "Paramètres"
+
+msgid "User Id"
+msgstr "User Id:"
+
+msgid "User API key"
+msgstr "User API key:"
+
+msgid "To get your User API key"
+msgstr "Pour obtenir votre User API key"
+
+# Error form and widget
+msgid "Parameters have not been set correctly"
+msgstr "Les paramètres n'ont pas été remplis correctement"
+
+# Widget
+msgid "Easily embedded forms"
+msgstr "Des formulaires faciles à intégrer"
+
+# JS
+msgid "Form"
+msgstr "Formulaire"
+
+msgid "Add a form"
+msgstr "Ajouter un formulaire"

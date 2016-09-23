@@ -16,16 +16,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'tmd1_clarksfield_com');
+define('DB_NAME', 'tmd');
 
 /** MySQL database username */
-define('DB_USER', 'tmd1clarksfieldc');
+define('DB_USER', 'wp');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'GHZdzb3r');
+define('DB_PASSWORD', 'qazplm');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.tmd1.clarksfield.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

@@ -7813,3 +7813,18 @@ h1 .wpb_text_column p, h2 .wpb_text_column p, h3 .wpb_text_column p, h4 .wpb_tex
     background: transparent !important;
     color: #222326 !important;
 }
+.top_panel_middle .content_wrap{
+
+height: 90px !important;
+}
+.top_panel_middle .logo {
+      margin-top: 1.5em !important;
+}
+
+.single_footer_info{
+display:none !important;
+}
+
+.top_panel_image_hover{
+background-color: rgba(0, 0, 0, 0.38) !important;
+}
